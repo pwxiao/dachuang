@@ -1,12 +1,8 @@
 # 火灾机器人
 
 ## 介绍视频
+<iframe height=498 width=510 src="https://user-images.githubusercontent.com/39235890/226309106-bc3887d3-5cfa-4faa-a42a-05c5ea313dfd.mp4">
 
-```HTML
-<video width="320" height="240" controls>
-    <source src="https://user-images.githubusercontent.com/39235890/226309106-bc3887d3-5cfa-4faa-a42a-05c5ea313dfd.mp4" type="video/mp4">
-</video>
-```
 
 ## 项目特色与创新
 
